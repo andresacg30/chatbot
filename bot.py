@@ -46,7 +46,6 @@ def test():
         print('Please, try again')
 
     print('Completed, have a nice day!')
-    print('Completed, have a nice day!')
 
 
 def end():
